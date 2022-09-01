@@ -1,0 +1,37 @@
+p {
+    color: white;
+    width: 450px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.2rem;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+}
+
+h1 {
+    color: rgb(115, 163, 240);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.7rem;
+    text-shadow: 1px 1px 2px rgb(133, 129, 211), 0 0 25px rgb(85, 85, 153), 0 0 2px rgb(255, 255, 255);
+    text-align: center;
+
+}
+
+h3 {
+    color: rgb(188, 198, 198);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    display: block;
+}
+
+body {
+    background-image: url('https://www.icegif.com/wp-content/uploads/black-hole-icegif-7.gif');
+    background-position: center;
+    background-size: cover;
+}
